@@ -1,2 +1,1 @@
-#ISM2411 Cleaning Data with Copilot
-This repo contains a script that cleans a messy sales dataset
+Created a FIle that cleaned up the the csv file which was in a messy state. Making use of GIthub Copilot to help code the file.
